@@ -1,0 +1,30 @@
+{
+  "name": "@pranshuagrawal/resume",
+  "version": "1.0.0",
+  "description": "My resume on your terminal. I could have avoided creating this, but, isnt it cool?",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranshuagrawal/npm-resume.git"
+  },
+  "keywords": [
+    "resume",
+    "pranshuagrawal"
+  ],
+  "author": "Pranshu Agrawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pranshuagrawal/npm-resume/issues"
+  },
+  "homepage": "https://github.com/pranshuagrawal/npm-resume#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

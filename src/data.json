@@ -1,0 +1,85 @@
+{
+  "About": [
+    {
+      "label": "About Me",
+      "sublabel": "Baby shark too doo todooo...",
+      "value": [
+        "Hi I am Pranshu Agrawal, I am from New Delhi, India.",
+        "● I am a Front End Developer, proficient in JS Based Frameworks and Web Technologies.",
+        "● I have been building stuff using these since 2010 and professionally doing this from 2014.",
+        "● I have done my Masters in Information Technology from ABV IIITM, Gwalior. You can read more about it in the education section.",
+        "● I work as a freelance fashion photographer. Check my work at https://pranshu.works/photos/"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "label": "Post Graduation",
+      "timeline": [2013, 2015],
+      "value": "ABV Indian Institute of Information and Technology, Gwalior. "
+    },
+    {
+      "label": "Graduation",
+      "timeline": [2010, 2013],
+      "value": "ABV Indian Institute of Information and Technology, Gwalior. "
+    }
+  ],
+  "Experience": [
+    {
+      "label": "Paytm",
+      "timeline": [2018, "Current"],
+      "value": [
+        "● Worked on several products at Paytm, mainly including Netbanking Solution, UAP and Remittance Panel",
+        "● Worked on Frontend Banking Solutions and gained enterprise experience on security aspects of web application",
+        "● ReactJS, VueJS, NodeJS are the main libraries I have mainly worked on in this organization",
+        "● Worked on solutionizing problems related to banking experience and frontend architecture"
+      ]
+    },
+    {
+      "label": "Frrole",
+      "timeline": [2014, 2018],
+      "value": [
+        "● Lead 2 Frontend products from scratch: Frrole Scout, Frrole DeepSense",
+        "● Worked majorly on scalable data visualizations (using highcharts and D3.js) and frontend architecture",
+        "● Actively involved in charting out the product design and user experience"
+      ]
+    }
+  ],
+  "Technology": [
+    {
+      "label": "Technologies",
+      "value": [
+        "● ReactJS",
+        "● VueJS",
+        "● React Native",
+        "● Typescript",
+        "● Javascript ES6",
+        "● HTML 5",
+        "● SCSS",
+        "● Webpack",
+        "● npm"
+      ]
+    }
+  ],
+  "Open-source": [
+    {
+      "label": "Open-source contribution",
+      "value": [
+        "● Contributor on Stackoverflow: https://stackoverflow.com/users/1496715/void",
+        "● Toggle Case (VS Code Extension): https://marketplace.visualstudio.com/items?itemName=PranshuAgrawal.toggle-case",
+        "● Create Component (VS Code Extension): https://marketplace.visualstudio.com/items?itemName=PranshuAgrawal.create-component",
+        "● loggin-timer (npm package): https://github.com/pranshuagrawal/logging-timer"
+      ]
+    }
+  ],
+  "Contact": [
+    {
+      "label": "You can ping me on any of the below sources and you will hear from me in no time!",
+      "value": [
+        "Email: me@pranshu.works",
+        "Twitter: https://twitter.com/_p5u_",
+        "Website: https://pranshu.works"
+      ]
+    }
+  ]
+}
