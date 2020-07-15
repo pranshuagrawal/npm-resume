@@ -1,6 +1,6 @@
 {
   "name": "@pranshuagrawal/resume",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My resume on your terminal. I could have avoided creating this, but, isnt it cool?",
   "main": "src/index.js",
   "scripts": {
@@ -28,6 +28,6 @@
     "access": "public"
   },
   "bin": {
-    "@pranshuagrawal/resume": "./resrc/index.js"
+    "@pranshuagrawal/resume": "./src/index.js"
   }
 }
